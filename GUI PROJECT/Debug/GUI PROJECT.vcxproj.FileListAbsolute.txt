@@ -1,0 +1,26 @@
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.AssemblyReference.cache
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm.resources
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.GenerateResource.cache
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm1.resources
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm2.resources
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.easyform.resources
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.hardform.resources
+C:\Users\VIP\source\repos\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.medform.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.AssemblyReference.cache
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.easyform.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.hardform.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.medform.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm1.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm2.resources
+C:\Users\dell\Downloads\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.GenerateResource.cache
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.AssemblyReference.cache
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.SuggestedBindingRedirects.cache
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.easyform.resources
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.hardform.resources
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.medform.resources
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm.resources
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm1.resources
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUIPROJECT.MyForm2.resources
+D:\GUI PROJECT\GUI PROJECT\GUI PROJECT\Debug\GUI PROJECT.vcxproj.GenerateResource.cache
